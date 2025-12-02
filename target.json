@@ -1,0 +1,10 @@
+{
+    "include": [
+        {
+            "keyboard": "piiworkv2",
+            "keymap": "vial",
+            "target": "uf2",
+            "name": "piiworkv2_vial"
+        }
+    ]
+}
